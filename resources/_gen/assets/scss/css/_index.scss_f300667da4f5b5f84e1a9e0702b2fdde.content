@@ -22,7 +22,7 @@
   /* Dark section - background color */
   --section-dark-bg-color: #394F4c;
   /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
-  --section-uni-quote: grey;
+  --section-uni-quote: #F5F3F3;
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */
   --section-uni-code-bg-color: #e0ded7;
   /* === Footer === */
@@ -36,10 +36,14 @@ body {
 /* ===== Cover =======*/
 #blog-logo {
   display: block;
-  max-height: 170px;
+  max-height: 200px;
   width: auto;
   margin: 0 auto;
   line-height: 0; }
+
+@media (max-width: 667px) {
+  #blog-logo {
+    max-height: 170px; } }
 
 #site-head.withCenteredImage {
   /* can't be used together with video */
@@ -215,7 +219,8 @@ a.fn-item {
 .post-content img {
   display: block;
   max-width: 100%;
-  margin: 0 auto; }
+  margin: 0 auto;
+  box-shadow: 0 3px 10px #00000033; }
 
 /** ==========  Site footer ============ */
 .site-footer {
