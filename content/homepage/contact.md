@@ -1,8 +1,9 @@
 ---
 title: "Contact"
-weight: 4
+weight: 5
 header_menu: true
 ---
+Contact us today to learn more about our underground imaging services and how we can assist you in detecting **ferrous and non-ferrous materials, locating abandoned wells, and identifying water saturation.**
 
 {{<icon class="fa fa-envelope">}}&nbsp;[corysfieldservices@outlook.com](mailto:corysfieldservices@outlook.com)
 
@@ -10,4 +11,3 @@ header_menu: true
 
 {{<icon class="fa fa-map-marker">}}&nbsp;Dacono, Colorado
 
-Let us get in touch!

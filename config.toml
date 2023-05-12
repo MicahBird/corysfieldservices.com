@@ -25,6 +25,9 @@ title = "Cory's Field Services - Underground Water Location"
     # See https://gohugo.io/templates/internal#twitter-cards and https://gohugo.io/templates/internal#open-graph.
     # NOT the actual header background image, go to _index.md instead
     images = ["images/Corys Field Services Logo.svg"]
+    
+    # Logos to highlight on content with weight that =1
+    logoHighlights  = ["images/BLM_Logo.png", "images/State-of-Colorado.png", "images/Colorado-State-Land-Board.png", "images/Trinchera-Ranch.png"]
 
     # When set true, it creates a visual guard (partially transparent rounded box), preventing non-ideal background images from interfering with title/description headings
     # Ideal images are homogenous around the centre and contrasting to the text.
