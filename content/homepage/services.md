@@ -13,4 +13,4 @@ Our underground imaging services include:
 - Identification of water saturation
 - Locating abandoned wells
 
-We evaluate data values that are used to determine the ferrous minerals from non-ferrous minerals (water). The higher the negative number, the better the water saturation. We can't not guarantee any specific depth numbers due to certain soils and water deflection of the signal that can be distorted and give false readings. Only through digging or digging will accurate depth be provided.
+We evaluate data values that are used to determine the ferrous minerals from non-ferrous minerals (water). The higher the negative number, the better the water saturation. We can't not guarantee any specific depth numbers due to certain soils and water deflection of the signal that can be distorted and give false readings. Only through drilling or digging will accurate depth be provided.
