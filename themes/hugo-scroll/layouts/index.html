@@ -72,9 +72,9 @@
                 <h2 class="post-title">{{ .Title | safeHTML }}</h2>
             </header>
             <section class="post-content">
-              {{ if eq .Weight 1 }}
+              {{ if eq .Weight .Site.Params.logoHighlightsWeight }}
                 {{ .Content }}
-                <p style="text-align: center;">Here's some of whom we have worked with:</p>
+                <p style="text-align: center;">{{ .Site.Params.logoHighlightsMessage }}</p>
                 <table>
                     <tbody>
                       <tr>
