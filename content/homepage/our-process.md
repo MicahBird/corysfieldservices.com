@@ -7,7 +7,7 @@ header_menu: true
 At Cory's Field Services, we follow a simple process:
 
 1. Contact us to schedule an appointment for underground imaging services.
-2. Our team will arrive at the site with the necessary equipment and conduct the scan in multiple directions.
+2. We arrive at the site with the necessary equipment and conduct the scan in multiple directions.
 3. We will provide you with a 3D view of the area and data values for analysis.
 4. Our experts will stake out the best suggested points for a driller, and will provide data for the customer.
 
@@ -27,12 +27,6 @@ This well was drilled and water was found from **320' to 720'** in Belen, NM.
 
 
 ![Well in Belen, NM. Overview](images/Well-in-Belen-2.jpg)
-
-### Well in Bridgeport, TX.
-
-This well in Bridgeport, Texas, was drilled to 168', and water started at 110'. It was drilled on the edge of an underground waterfall and produced **20 GPM**.
-
-![Well in Bridgeport, TX. Overview](images/Well-in-Bridgeport.jpg)
 
 ### Channels South of Last Chance, CO.
 
