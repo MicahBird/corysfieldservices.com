@@ -29,13 +29,13 @@ title = "Cory's Field Services - Underground Water Location"
     # The weight of the section 
     countdownWeight = 2
     countdown1Start = 0
-    countdown1End= 0
+    countdown1End= 500
     countdown1Message= "Total Scans:"
 
     # Logos to highlight on content with weight that =1
-    logoHighlightsWeight = 1
-    logoHighlightsMessage  = "Here's some of whom we have worked with:"
-    logoHighlights  = ["images/BLM_Logo.png", "images/State-of-Colorado.png", "images/Colorado-State-Land-Board.png", "images/Trinchera-Ranch.png"]
+    # logoHighlightsWeight = 1
+    # logoHighlightsMessage  = "Here's some of whom we have worked with:"
+    # logoHighlights  = ["images/BLM_Logo.png", "images/State-of-Colorado.png", "images/Colorado-State-Land-Board.png", "images/Trinchera-Ranch.png", "images/Miller-Excavation-Inc.png", "images/Hathorn-Construction.png"]
 
     # When set true, it creates a visual guard (partially transparent rounded box), preventing non-ideal background images from interfering with title/description headings
     # Ideal images are homogenous around the centre and contrasting to the text.
@@ -64,3 +64,7 @@ title = "Cory's Field Services - Underground Water Location"
     
     # [params.meta]
     #     keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
