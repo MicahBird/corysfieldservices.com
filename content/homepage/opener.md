@@ -7,11 +7,23 @@ weight: 1
 ---
 For years we've specialized in water well location through a process of digital water dowsing. Whether a residential well, irrigation or livestock well, we find your subsurface water source. We understand the high stakes challenge of locating water, and take your project seriously.
 
-At Cory's Field Services, we specialize in underground imaging services using the earth's magnetic field to detect both ferrous and non-ferrous materials with a focus on water. Our team of experts use UTVs, carts, and backpacks, depending on the area that needs to be scanned. With our multidirectional scanning process, we insure the object(s) or target's position or direction of flow. Scans are done in a 3D format, allowing for a better all-around view.
+At Cory's Field Services, we specialize in underground imaging services using the earth's magnetic field to detect both ferrous and non-ferrous materials with a focus on water. Our experts use UTVs, carts, and backpacks, depending on the area that needs to be scanned. With our multidirectional scanning process, we insure the object's or target's position or direction of flow. Scans are done in a 3D format, allowing for a better all-around view.
 
 ---
 
-<!-- |   |   |   | -->
-<!-- | - | - | - | -->
-<!-- | ![Bureau of Land Management](images/BLM_Logo.png) | ![State of Colorado](images/State-of-Colorado.png) | ![Trinchera Ranch](images/Trinchera-Ranch.png) | -->
-<!-- |   |   |   | --> 
+<p style="text-align: center;">Here's some of whom we have worked with:</p>
+
+<table>
+    <tr>
+        <td><a href="https://www.blm.gov/"><img alt="Bureau of Land Management" style="width: 150px;" src="images/BLM_Logo.png"></a></td>
+        <td><a href="https://www.colorado.gov/"><img alt="State of Colorado" style="width: 150px;" src="images/State-of-Colorado.png"></a></td>
+        <td><a href="https://slb.colorado.gov/"><img alt="Colorado State Land Board" style="width: 150px;" src="images/Colorado-State-Land-Board.png"></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://trincheraranch.com/"><img alt="Colorado State Land Board" src="images/Trinchera-Ranch.png"></a></td>
+        <td><a href="https://www.millerexcavationinc.com/"><img style="width: 250px;" alt="Miller Excavation Inc." src="images/Miller-Excavation-Inc.png"></a></td>
+        <td><a href="https://hathornconst.com/"><img style="width: 250px;" alt="Hathorn Construction" src="images/Hathorn-Construction.png"></a></td>
+    </tr>
+</table>
+
+<p style="text-align: center;">... And many more.</p>
