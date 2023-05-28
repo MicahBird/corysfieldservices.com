@@ -8,9 +8,15 @@ weight: 2
 
 ---
 
-> Hey Ray! The Westcliff well was drilled a few weeks ago and the driller said it will be one heck of a stock well! 👍 and the Two Buttes well was just finished and they hit good water too!
+> We got water at 210', 10GPM. Your data was spot on! - Antero Junction, CO.
 
 ---
+
+> Hey Ray! The Westcliff well was drilled a few weeks ago and the driller said it will be one heck of a stock well! 👍 and the Two Buttes well was just finished and they hit good water too!
+
+
+---
+
 
 > Hi Ray! Great news, all of the wells that you helped with hit water!
 
