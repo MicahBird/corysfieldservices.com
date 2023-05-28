@@ -250,6 +250,28 @@ a.fn-item {
   box-shadow: 0 3px 10px #00000033;
 }
 
+/** ======== Tables ========= */
+.post-content table {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-spacing: 0;
+    margin: 1.6em 0;
+    width: 100%;
+    max-width: 100%;
+    background-color: transparent;
+
+    td {
+        box-shadow: none;
+        width: 200px; 
+        height: auto;
+    }
+
+    td img {
+        box-shadow: none; 
+        width: 200px; 
+        height: auto;
+    }
+}
 /** ==========  Site footer ============ */
 .site-footer {
   background: var(--footer-color-background);
@@ -303,3 +325,8 @@ a.fn-item {
   background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black overlay */
 }
 
+.grid-container {
+  display: grid;
+  grid-template-columns: 75% 25%;
+  margin: 5px;
+}

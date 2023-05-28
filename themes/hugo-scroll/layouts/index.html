@@ -72,30 +72,7 @@
                 <h2 class="post-title">{{ .Title | safeHTML }}</h2>
             </header>
             <section class="post-content">
-              {{ if eq .Weight .Site.Params.logoHighlightsWeight }}
-                {{ .Content }}
-                <p style="text-align: center;">{{ .Site.Params.logoHighlightsMessage }}</p>
-                <table>
-                    <tbody>
-                      <tr>
-                      {{ $logoHighlights := .Site.Params.logoHighlights }}
-                      {{ range $index, $value := $logoHighlights }}
-                          <td>
-                          {{ if eq $value "images/Colorado-State-Land-Board.png" }}
-                          <img src="{{ $value }}" style="box-shadow: none; width: 240px; height: auto;">
-                          {{ else }}
-                          <img src="{{ $value }}" style="box-shadow: none; width: 300px; height: auto;">
-                          {{ end }}
-                          </td>
-                      {{ end }}
-                      </tr>
-                    <tbody>
-                  </table>
-
-                <!-- .Weight equals one, do something here -->
-              {{ else }}
-                {{ .Content }}
-              {{ end }}
+              {{ .Content | safeHTML }}
             </section>
         </article>
         <div class='post-after{{ if and (ne .Site.Params.invertSectionColors true) (modBool $index_val 2) }} light{{ else if and (eq .Site.Params.invertSectionColors true) (not (modBool $index_val 2)) }} light{{ end }}'></div>

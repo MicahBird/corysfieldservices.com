@@ -250,29 +250,16 @@ table {
     max-width: 100%;
     background-color: transparent;
 
-    th,
     td {
-        padding: 8px;
-        line-height: 20px;
-        text-align: left;
-        vertical-align: top;
+        box-shadow: none;
+        width: 300px; 
+        height: auto;
     }
 
-    thead {
-        th,
-        td {
-            border-bottom: 1px solid var(--color-text);
-        }
-    }
-
-    tbody>tr:nth-child(even) {
-        background-color: #fff5;
-        background-blend-mode: lighten;
-    }
-
-    &.plain tbody>tr:nth-child(odd)>td,
-    &.plain tbody>tr:nth-child(odd)>th {
-        background: transparent;
+    td img {
+        box-shadow: none; 
+        width: 300px; 
+        height: auto;
     }
 }
 
