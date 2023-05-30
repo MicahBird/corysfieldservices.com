@@ -5,9 +5,9 @@ weight: 1
 ---
 
 ---
-For years we've specialized in water well location through a process of digital water dowsing. Whether a residential well, irrigation or livestock well, we find your subsurface water source. We understand the high stakes challenge of locating water, and take your project seriously.
+For years we've specialized in water well location through a process of **underground imaging**. Whether a residential well, irrigation or livestock well, we find your subsurface water source. We understand the high stakes challenge of locating water, and take your project seriously.
 
-At Cory's Field Services, we specialize in underground imaging services using the earth's magnetic field to detect both ferrous and non-ferrous materials with a focus on water. Our experts use UTVs, carts, and backpacks, depending on the area that needs to be scanned. With our multidirectional scanning process, we insure the object's or target's position or direction of flow. Scans are done in a 3D format, allowing for a better all-around view.
+At Cory's Field Services, we specialize in **geophysical magnetic surveying** using the earth's magnetic field to detect both ferrous and non-ferrous materials with a focus on water. Cory's Field Services uses a UTV, depending on the area that needs to be scanned. With our multidirectional scanning process, we insure the object's or target's position or direction of flow. Scans are done in a 3D format, allowing for a better all-around view.
 
 ---
 

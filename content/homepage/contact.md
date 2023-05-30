@@ -12,7 +12,7 @@ Contact us today to learn more about our underground imaging services and how we
 
 {{<icon class="fa fa-phone">}}&nbsp;[720-517-2444](tel:7205172444)
 
-{{<icon class="fa fa-map-marker">}}&nbsp;Dacono, Colorado
+{{<icon class="fa fa-map-marker">}}&nbsp;Dacono, Colorado and Union City, Oklahoma
 
 </div>
 
