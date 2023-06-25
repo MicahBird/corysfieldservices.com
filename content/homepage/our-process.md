@@ -37,4 +37,4 @@ This scan is of a well drilled south of Last Chance, where there are two channel
 ---
 
 ##### Please Note:
-**Cory's Field Services <ins> does not guarantee </ins> a successful water well, depth of well, quality of water or GPM output. Cory's Field Services <ins> aids in </ins> locating an area that helps in increading the chances in having a successful well drilled.**
+**Cory's Field Services <ins> does not guarantee </ins> a successful water well, depth of well, quality of water or GPM output. Cory's Field Services <ins> aids in </ins> locating an area that helps in increasing the chances in having a successful well drilled.**
