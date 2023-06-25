@@ -9,6 +9,6 @@ header_use_video: true
 header_logo: "images/Corys Field Services Logo.svg"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: ""
-header_subheadline: "Discover the untapped potential of your land."
+header_headline: "Discover the untapped potential of your land."
+header_subheadline: "Geophysical Magnetic Surveying"
 ---
