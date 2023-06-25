@@ -125,7 +125,7 @@ function isElementVisible(element) {
 }
 
 function handleVisibility() {
-  var elementIds = ["CO", "KS", "NM", "OK", "TX"]; // Array of element IDs to check visibility
+  var elementIds = ["CO", "KS", "NM", "OK", "TX" "UT" "AZ"]; // Array of element IDs to check visibility
   elementIds.forEach(function (elementId) {
     var element = document.getElementById(elementId);
     if (isElementVisible(element)) {

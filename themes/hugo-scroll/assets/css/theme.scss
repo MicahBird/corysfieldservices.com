@@ -57,7 +57,7 @@ body {
 
   .blog-title {
     margin: 10px 0 10px 0;
-    font-size: 5rem;
+    font-size: 3rem;
     letter-spacing: -1px;
     text-shadow: var(--cover-title-text-shadow);
   }
@@ -354,7 +354,7 @@ a.fn-item {
     fill: #D3D3D3;
   }
   100% {
-    stroke: #86c440;
+    stroke: black;
     fill: #86c440;
   }
 }
@@ -398,7 +398,33 @@ a.fn-item {
   transition: opacity 0.5s;
 }
 
+#UT {
+  stroke: #86c440;
+  fill: #86c440;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+#AZ {
+  stroke: #86c440;
+  fill: #86c440;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+
 // Visible Versions
+
+
+#AZ.visible {
+  opacity: 1;
+  animation: colorChange 3s forwards;
+}
+
+#UT.visible {
+  opacity: 1;
+  animation: colorChange 3s forwards;
+}
 
 #CO.visible {
   opacity: 1;
