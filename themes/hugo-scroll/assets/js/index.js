@@ -129,7 +129,6 @@ function handleVisibility() {
   elementIds.forEach(function (elementId) {
     var element = document.getElementById(elementId);
     if (isElementVisible(element)) {
-      console.log(element + " is visble.")
       element.classList.add("visible");
     } else {
       element.classList.remove("visible"); // Remove "visible" class if not visible
