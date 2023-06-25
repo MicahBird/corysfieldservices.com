@@ -338,3 +338,89 @@ a.fn-item {
     grid-template-columns: 100%;
   }
 }
+
+/* United States Map */
+
+#us-map{
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@keyframes colorChange {
+  0% {
+    stroke: #D3D3D3;
+    fill: #D3D3D3;
+  }
+  100% {
+    stroke: #86c440;
+    fill: #86c440;
+  }
+}
+
+// Hidden Versions
+
+#CO {
+  stroke: #86c440;
+  fill: #86c440;
+  stroke-width:2px;
+  stroke-linejoin: round;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+#KS {
+  stroke: #86c440;
+  fill: #86c440;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+#NM {
+  stroke: #86c440;
+  fill: #86c440;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+#OK {
+  stroke: #86c440;
+  fill: #86c440;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+#TX {
+  stroke: #86c440;
+  fill: #86c440;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+// Visible Versions
+
+#CO.visible {
+  opacity: 1;
+  animation: colorChange 3s forwards;
+}
+
+#KS.visible {
+  opacity: 1;
+  animation: colorChange 3s forwards;
+}
+
+#NM.visible {
+  opacity: 1;
+  animation: colorChange 3s forwards;
+}
+
+#OK.visible {
+  opacity: 1;
+  animation: colorChange 3s forwards;
+}
+
+#TX.visible {
+  opacity: 1;
+  animation: colorChange 3s forwards;
+}

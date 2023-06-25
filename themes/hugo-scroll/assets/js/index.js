@@ -116,3 +116,27 @@ var $sitehead = $("#site-head");
     }
   });
 })(jQuery);
+
+// US Map Animation Show/Hide
+function isElementVisible(element) {
+  var rect = element.getBoundingClientRect();
+  var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
+  return !(rect.bottom < 0 || rect.top - viewHeight >= 0);
+}
+
+function handleVisibility() {
+  var elementIds = ["CO", "KS", "NM", "OK", "TX"]; // Array of element IDs to check visibility
+  elementIds.forEach(function (elementId) {
+    var element = document.getElementById(elementId);
+    if (isElementVisible(element)) {
+      console.log(element + " is visble.")
+      element.classList.add("visible");
+    } else {
+      element.classList.remove("visible"); // Remove "visible" class if not visible
+    }
+  });
+}
+
+// Listen for scroll and resize events
+window.addEventListener("scroll", handleVisibility);
+window.addEventListener("resize", handleVisibility);
