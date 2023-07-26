@@ -26,7 +26,7 @@ At Cory's Field Services, we specialize in **geophysical magnetic surveying** us
     </tr>
 </table>
 
-<p style="text-align: center;">... And many more.</p>
+<p style="text-align: center;"><a href="businesses-we-support">... And businesses we support</a></p>
 
 ---
 
