@@ -4,8 +4,8 @@ title: "Business We Support"
 
 |  |  |
 |:---:|:---:|
-| [Fay Ranches Inc.](https://fayranches.com/) | |
-| [![Fay Ranches Inc.](/images/fay-ranches-1.jpg)](https://fayranches.com/) | |
+| [Fay Ranches Inc.](https://fayranches.com/) | [Fay Ranches Inc.](https://fayranches.com/) |
+| [![Fay Ranches Inc.](/images/fay-ranches-1.jpg)](https://fayranches.com/) | [![Fay Ranches Inc.](/images/fay-ranches-2.jpg)](https://fayranches.com/) |
 | [L.C.C. Inc.](https://www.lcctires.com) | [W.W. Backhoe & Dozer Services](https://www.wwbackhoe.com/) |
 | [![L.C.C. Inc.](/images/lcc-inc.jpg)](https://www.lcctires.com) | [![W.W. Backhoe & Dozer Services](/images/W.W.-Backhoe-&-Dozer-Services.jpg)](https://www.wwbackhoe.com/) |
 | [Colorado Dirt Dog LLC](http://coloradodirtdog.com/)                                        | [Ranches Dos Hermanos](https://doshermanosranch.com/) |
